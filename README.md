@@ -1,0 +1,2 @@
+# MBOT
+NiceHash Mining Bot
