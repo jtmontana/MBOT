@@ -38,9 +38,3 @@ class NiceHashAPI:
             "algorithm":algo
         }
         return self.query("/main/api/v2/hashpower/order/price"+urllib.parse.urlencode(json))
-    
-    def getGlobalHashrate(self, coin):
-
-
- #   def getCoinlist(self):
-#        return self.query("coins/list")
